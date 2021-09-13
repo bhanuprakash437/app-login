@@ -1,0 +1,11 @@
+{
+  "devDependencies": {
+    "testcafe": "^1.16.0"
+  },
+  "scripts": {
+    "test": "testcafe chrome ./tests"
+  },
+  "dependencies": {
+    "testcafe-reporter-html": "^1.4.6"
+  }
+}
