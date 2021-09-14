@@ -14,7 +14,7 @@ npm install -g testcafe
 
 **Running the Test**
 
-1. Specify the target browser & file path and execute the following command to run all the tests.
+1. Specify the target browser & file path(**package.json**) and execute the following command to run all the tests.
 
 testcafe chrome ./tests
 
